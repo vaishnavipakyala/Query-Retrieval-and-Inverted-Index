@@ -1,0 +1,246 @@
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
+GetPostings
+feme
+Postings list: 5049 5228 5506 5521 5550 6027 6132 6192 6298 6411 6657
+GetPostings
+ateint
+Postings list: 5113 5130 5274 5404 5582 5925 6036 6050 6099 6205 6411
+TAATAnd
+feme ateint 
+Results: 6411
+Number of documents in results: 1
+Number of comparisons: 20
+TAATOr
+feme ateint 
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in results: 21
+Number of comparisons: 21
+DAATOr
+Results: 5049 5113 5130 5228 5274 5404 5506 5521 5550 5582 5925 6027 6036 6050 6099 6132 6192 6205 6298 6411 6657
+Number of documents in the results: 21
+GetPostings
+alguë
+Postings list: 5218
+GetPostings
+accè
+Postings list: 6160 6244
+GetPostings
+armé
+Postings list: 6350
+TAATAnd
+alguë accè armé 
+Results: empty
+Number of documents in results: 0
+Number of comparisons: 1
+TAATOr
+alguë accè armé 
+Results: 5218 6160 6244 6350
+Number of documents in results: 4
+Number of comparisons: 6
+DAATOr
+Results: 5218 6160 6244 6350
+Number of documents in the results: 4
